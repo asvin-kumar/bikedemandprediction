@@ -5,7 +5,7 @@ Contributors: [Fadeel Sher Khan](https://github.com/fadeelkhan), [Powell Lowe](h
 
 Please see report for our experiments and results. 
 
-LSTM_SHAP.ipynb has code for the LSTM and LSTM (PCA) models described in the report. Code for SHAP plots is also included.  
-LinearReg_SVR_XGBoost_SHAP.ipynb has code for the Linear Regression, SVR, XGBoost, XGBoost (PCA), Random Forest models described in the report. Code for SHAP plots is also included.  
-
+## Code
+1. LSTM_SHAP.ipynb has code for the LSTM and LSTM (PCA) models described in the report. Code for SHAP plots is also included.  
+2. LinearReg_SVR_XGBoost_SHAP.ipynb has code for the Linear Regression, SVR, XGBoost, XGBoost (PCA), Random Forest models described in the report. Code for SHAP plots is also included. 
 
